@@ -1,0 +1,12 @@
+[project]
+name = "genpark-dead-code-and-unused-symbol-tree-shaking-pruner-skill"
+version = "1.0.0"
+description = "Constructs AST symbol reference graphs to detect unreferenced functions, dead code branches, and unused imports"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
